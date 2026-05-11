@@ -11,5 +11,12 @@
         <pubDate>Mon, 11 May 2026 22:32:21 +0000</pubDate>
         <guid>https://youtu.be/ynmt0h3aSPM</guid>
     </item>
+    <item>
+        <title>Robert M. Sapolsky - Behave_ The Biology of Humans at Our Best and Worst (2017, Penguin Press)</title>
+        <description>Audio overview for Robert M. Sapolsky - Behave_ The Biology of Humans at Our Best and Worst (2017, Penguin Press).pdf</description>
+        <pubDate>Mon, 11 May 2026 22:32:44 +0000</pubDate>
+        <enclosure url="https://raw.githubusercontent.com/jamescourey-cpu/podcastsonpapers/main/audio/The_Biology_of_Our_Best_and_Worst.m4a" length="40324840" type="audio/m4a"/>
+        <guid>https://raw.githubusercontent.com/jamescourey-cpu/podcastsonpapers/main/audio/The_Biology_of_Our_Best_and_Worst.m4a</guid>
+    </item>
 </channel>
 </rss>
