@@ -1,23 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
 <channel>
     <title>Podcasts on Papers</title>
-    <link>https://github.com/jamescourey-cpu/podcastsonpapers</link>
-    <description>AI-generated podcast summaries of books</description>
+    <link>https://jamescourey-cpu.github.io/podcastsonpapers/</link>
+    <description>AI-generated podcast summaries of books and papers. Each episode is an Audio Overview from NotebookLM, turning complex texts into engaging conversations.</description>
     <language>en-us</language>
+    <itunes:author>Podcasts on Papers</itunes:author>
+    <itunes:category text="Education"/>
+    <itunes:category text="Science"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://raw.githubusercontent.com/jamescourey-cpu/podcastsonpapers/main/cover.png"/>
     <item>
         <title>Behave: The Biology of Humans at Our Best and Worst</title>
-        <description>AI-generated Audio Overview summary of Robert Sapolsky's Behave - exploring the biological and neurological roots of human behavior, the roles of the frontal cortex, amygdala, and insula, and the interplay between biology and environment in shaping our actions.</description>
-        <pubDate>Mon, 11 May 2026 22:32:21 +0000</pubDate>
-                <enclosure url="https://youtu.be/ynmt0h3aSPM" length="40324840" type="audio/mpeg"/>
-        <guid>https://youtu.be/ynmt0h3aSPM</guid>
-    </item>
-    <item>
-        <title>Robert M. Sapolsky - Behave_ The Biology of Humans at Our Best and Worst (2017, Penguin Press)</title>
-        <description>Audio overview for Robert M. Sapolsky - Behave_ The Biology of Humans at Our Best and Worst (2017, Penguin Press).pdf</description>
+        <description>An AI-generated Audio Overview of Robert Sapolsky's Behave - exploring the biological and neurological roots of human behavior. From split-second neural firings to evolutionary timescales, Sapolsky weaves together neuroscience, endocrinology, and social psychology to understand why we do what we do.</description>
+        <link>https://jamescourey-cpu.github.io/podcastsonpapers/</link>
+        <guid>podcastsonpapers-behave-001</guid>
         <pubDate>Mon, 11 May 2026 22:32:44 +0000</pubDate>
-        <enclosure url="https://raw.githubusercontent.com/jamescourey-cpu/podcastsonpapers/main/audio/The_Biology_of_Our_Best_and_Worst.m4a" length="40324840" type="audio/m4a"/>
-        <guid>https://raw.githubusercontent.com/jamescourey-cpu/podcastsonpapers/main/audio/The_Biology_of_Our_Best_and_Worst.m4a</guid>
+        <enclosure url="https://raw.githubusercontent.com/jamescourey-cpu/podcastsonpapers/main/episodes/The_Biology_of_Our_Best_and_Worst.m4a" length="40324840" type="audio/mp4"/>
+        <itunes:duration>1255</itunes:duration>
+        <itunes:explicit>false</itunes:explicit>
     </item>
 </channel>
 </rss>
