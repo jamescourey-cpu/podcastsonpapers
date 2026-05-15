@@ -20,5 +20,15 @@
         <itunes:duration>1255</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+        <title>Forgotten Truth: The Common Vision of the World Religions</title>
+        <description>Explore NotebookLM-generated audio overview of Huston Smith book on the universal metaphysical framework underlying world religions.</description>
+        <link>https://jamescourey-cpu.github.io/podcastsonpapers/</link>
+        <guid>podcastsonpapers-forgottentruth-001</guid>
+        <pubDate>Fri, 15 May 2026 18:06:06 +0000</pubDate>
+        <enclosure url=https://raw.githubusercontent.com/jamescourey-cpu/podcastsonpapers/main/episodes/ + audio_name +  length= + str(os.path.getsize(audio_path)) +  type=audio/mp4/>
+        <itunes:duration>1361</itunes:duration>
+        <itunes:explicit>false</itunes:explicit>
+    </item>
 </channel>
 </rss>
