@@ -26,7 +26,7 @@
         <link>https://jamescourey-cpu.github.io/podcastsonpapers/</link>
         <guid>podcastsonpapers-forgottentruth-001</guid>
         <pubDate>Fri, 15 May 2026 18:06:06 +0000</pubDate>
-        <enclosure url=https://raw.githubusercontent.com/jamescourey-cpu/podcastsonpapers/main/episodes/ + audio_name +  length= + str(os.path.getsize(audio_path)) +  type=audio/mp4/>
+        <enclosure url="https://raw.githubusercontent.com/jamescourey-cpu/podcastsonpapers/main/episodes/Forgotten_Truth_Overview.m4a" length="43821509" type="audio/mp4"/>
         <itunes:duration>1361</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
     </item>
